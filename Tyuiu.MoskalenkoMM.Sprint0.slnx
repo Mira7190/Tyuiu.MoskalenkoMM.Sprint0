@@ -2,4 +2,7 @@
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.MoskalenkoMM.Sprint0.Task0.V0/Tyuiu.MoskalenkoMM.Sprint0.Task0.V0.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MosaklenkoMM.Sprint0.Task1.V0/Tyuiu.MosaklenkoMM.Sprint0.Task1.V0.csproj" Id="42a2c6ea-ff8d-41a9-bbcd-0679adcd557a" />
+  </Folder>
 </Solution>
