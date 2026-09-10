@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            string name = "Игорь";
-            int age = 45;
-            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет! ");
+            string name = "Мирослава";
+            int age = 17;
+            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет. ");
             Console.ReadKey();
         }
     }
